@@ -20,6 +20,30 @@
         "Muncher-Scanlations": "/proxy/api/imgur/chapter/vAPiHKz/"
       },
       "last_updated": "1622951078"
+    },
+    "125": {
+      "title": "",
+      "volume": "11",
+      "groups": {
+        "Muncher-Scanlations": "/proxy/api/imgur/chapter/Gzd4qmx/"
+      },
+      "last_updated": "1622951078"
+    },
+    "128": {
+      "title": "",
+      "volume": "11",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/XZ3pKtL/"
+      },
+      "last_updated": "1622951078"
+    },
+    "128.5": {
+      "title": "Omake",
+      "volume": "11",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/t23b0Dt/"
+      },
+      "last_updated": "1622951078"
     }
   }
 }
