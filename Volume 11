@@ -124,6 +124,14 @@
         "Muncher-Scanlations": "/proxy/api/imgur/chapter/20z3MgY/"
       },
       "last_updated": "1623522470"
+    },
+       "130": {
+      "title": "",
+      "volume": "12",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/nNLPETd/"
+      },
+      "last_updated": "1623787935"
     }
   }
 }
